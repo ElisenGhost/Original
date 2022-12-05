@@ -6,6 +6,9 @@
         <img class="photo_slider_css" src="img/gym2.jpg" alt="">
         <img class="photo_slider_css" src="img/gym3.jpg" alt="">
         <img class="photo_slider_css" src="img/gym4.jpg" alt="">
+        <img class="photo_slider_css" src="img/gym5.jpg" alt="">
+        <img class="photo_slider_css" src="img/gym6.jpg" alt="">
+        <img class="photo_slider_css" src="img/gym7.jpg" alt="">
     </div>
 
         <div class="text1">start changing now, together with BODYMANIA!</div>
