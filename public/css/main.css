@@ -15,7 +15,7 @@ header{
 }
 .user_link{
     text-decoration: none;
-    color: white;
+    color: gray;
 }
 .user_link:hover {
     color: #00FF00;
